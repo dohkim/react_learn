@@ -4,5 +4,5 @@
 
 *Preparation*
 
-- Visual Studio Code \*
-- React Extension for VS Code \*
+- Visual Studio Code
+- React Extension for VS Code 
