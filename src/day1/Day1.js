@@ -31,10 +31,10 @@ const Day1 = () => {
 
 }
 
-const Search = (props) =>{
+const Search = ({onSearch}) =>{
     return (<div>
         <label htmlFor='search'>Search : </label>
-        <input id='search' type='text' onChange={props.onSearch}></input>
+        <input id='search' type='text' onChange={onSearch}></input>
     </div>)
     
 }
